@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/blog-de-michel-wowo-lamah/accueil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MichelWowoLamah&label=Profile%20Views&color=00d4ff&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=michoulov&label=Profile%20Views&color=00d4ff&style=flat)
 
 </div>
 
@@ -16,7 +16,7 @@
 ## 👨‍💻 À propos de moi
 
 ```python
-class MichelWowoLamah:
+class michoulov:
     def __init__(self):
         self.name       = "Michel Wowo Lamah"
         self.role       = "IT Manager | Cybersecurity Specialist"
@@ -115,6 +115,7 @@ class MichelWowoLamah:
 | 🥇 Fortinet Certified Associate in Cybersecurity | Fortinet | 2025 |
 | 🥇 Oracle Database SQL (1Z0-071) | Oracle | 2024 |
 | 🥇 Oracle Cloud Infrastructure AI Foundations | Oracle University | 2025 |
+| 🥇 Certified Network Defender (CND) | EC-Council | 2024 |
 | 🥇 Foundations of Cybersecurity | Google | 2025 |
 | 🥇 Certified Cybersecurity Educator Professional (CCEP) | Red Team Leaders | 2026 |
 | 🥇 Intermediate Malware Analysis | Red Team Leaders | 2026 |
@@ -139,8 +140,8 @@ class MichelWowoLamah:
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MichelWowoLamah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelWowoLamah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=michoulov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michoulov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
 </div>
 
 ---
