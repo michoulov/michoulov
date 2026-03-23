@@ -115,7 +115,6 @@ class michoulov:
 | 🥇 Fortinet Certified Associate in Cybersecurity | Fortinet | 2025 |
 | 🥇 Oracle Database SQL (1Z0-071) | Oracle | 2024 |
 | 🥇 Oracle Cloud Infrastructure AI Foundations | Oracle University | 2025 |
-| 🥇 Certified Network Defender (CND) | EC-Council | 2024 |
 | 🥇 Foundations of Cybersecurity | Google | 2025 |
 | 🥇 Certified Cybersecurity Educator Professional (CCEP) | Red Team Leaders | 2026 |
 | 🥇 Intermediate Malware Analysis | Red Team Leaders | 2026 |
